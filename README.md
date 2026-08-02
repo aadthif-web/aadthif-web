@@ -25,13 +25,6 @@
 ### ⚙️ Backend & Languages
 ![Skills](https://skillicons.dev/icons?i=python,nodejs,java,cpp)
 
-### 🤖 AI / ML
-![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)
-![scikit-learn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg)
-
-### 🛠️ Tools & Platforms
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter)
-
 ---
 
 ## 📊 GitHub Stats
